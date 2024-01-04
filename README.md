@@ -10,8 +10,8 @@ make
 https://github.com/nlohmann/json  
 https://github.com/chenshuo/muduo  
 
-还需要安装mysql和redis、hiredis
-MYSQL创建数据库CHAT
+还需要安装mysql和redis、hiredis  
+MYSQL创建数据库CHAT  
 进入数据库创建以下数据表  
 CREATE TABLE User(
 id INT PRIMARY KEY AUTO_INCREMENT,
